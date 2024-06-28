@@ -74,7 +74,6 @@ The following images show the comparison of all models based on their performanc
 - Investigating additional features and engineering new ones may provide better insights.
 - Expanding the dataset could enhance the model's ability to generalize to new data.
 
-## Contact
-If you have any questions or would like to contribute to the project, please contact Tanuj Verma at verma.tanu@northeastern.edu.
+
 
 
