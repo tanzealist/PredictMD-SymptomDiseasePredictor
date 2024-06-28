@@ -1,4 +1,4 @@
-# Disease Prediction from Symptoms
+# PredictMD: Symptom-Based Disease Predictor
 
 ## Overview
 This repository hosts a machine learning project aimed at predicting diseases from a set of symptoms. The project applies several classification techniques, such as Decision Tree, Random Forest, SVM, and XGBoost, to a dataset of symptoms and their corresponding diseases.
